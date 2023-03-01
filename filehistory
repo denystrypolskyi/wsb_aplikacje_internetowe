@@ -1,0 +1,9 @@
+    1  git clone https://github.com/denystrypolskyi/wsb_aplikacje_internetowe.git
+    2  ls
+    3  cd wsb_aplikacje_internetowe/
+    4  alias c=clear
+    5  alias c=clear
+    6  alias c='clear'
+    7  c
+    8  history
+    9  history > filehistory
